@@ -6,7 +6,7 @@ This is completely a deep learning project entirely based on neural networks and
 This project is the first step in that system.
 <br/>
 <br/>
-![me emotion](https://user-images.githubusercontent.com/39909903/86574626-f8af6f80-bf2a-11ea-93f2-c58bd08bb871.PNG) --
+
 ![ntr emotion](https://user-images.githubusercontent.com/39909903/86574777-2f858580-bf2b-11ea-8aee-597f89f2b6b9.PNG)
 <br/> <br/>
 Here I trained the convolution neural network with kaggle facial emotion dataset. so that it learns patterns for each facial expression and able to detect facial emotions
@@ -70,13 +70,5 @@ The following is the results of the images. I also add the number of persons in 
   <br/>
   
 
-  ## Contributing:
-  all pull requests are welcome. I felt glad if you give me any suggestions. (^_^)
- [![GitHub issues](https://img.shields.io/github/issues/PrudhviGNV/Facial-emotion-recognition-using-CNN)](https://github.com/PrudhviGNV/Facial-emotion-recognition-using-CNN/issues)
-  <br/>
-  <br/>
-  ## Licence & copyright: 
-  © Prudhvi GNV, _Computer Science<br/>
-  Licensed under the [MIT License](LICENSE)_
-  [![GitHub license](https://img.shields.io/github/license/PrudhviGNV/Facial-emotion-recognition-using-CNN)](https://github.com/PrudhviGNV/Facial-emotion-recognition-using-CNN/blob/master/LICENSE)
+  
   
