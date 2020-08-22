@@ -64,7 +64,7 @@ The following is the results of the images. I also add the number of persons in 
 
   <br/>
   <br/>
-  Thanks, Hope you enjoy the project! :)
+  Thanks, Hope you love and enjoy the project! :)
   <br/>
   <br/>
   <br/>
