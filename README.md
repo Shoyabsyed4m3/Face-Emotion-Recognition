@@ -14,6 +14,7 @@ Here I trained the convolution neural network with kaggle facial emotion dataset
 <br/>
 
 _Feel free to download, clone , fork the project._  
+For tutorial please visit : https://medium.com/@shoyabsyed4m3/face-emotion-recognition-using-cnn-f6aad2ff1a66
 
 ## Installation of python libraries:
   * keras with tensorflow as backend
