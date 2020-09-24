@@ -68,7 +68,7 @@ The following is the results of the images. I also add the number of persons in 
   Thanks, Hope you love and enjoy the project! :)
   <br/>
   <br/>
-  <br/>
+  
   
 
   
